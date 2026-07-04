@@ -1,4 +1,4 @@
-Statistical Language Modeling
+## Statistical Language Modeling
 
 A Statistical Language Modeling project built entirely from scratch using Python.
 This project explores the foundations of Natural Language Processing (NLP) by implementing Unigram, Bigram, and Trigram language models using Maximum Likelihood Estimation (MLE), Add-k Smoothing, and Linear Interpolation. Model performance is evaluated using Perplexity, and the trained models are capable of generating realistic text through probabilistic sampling.
