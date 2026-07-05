@@ -78,7 +78,6 @@ Zipf's Law
 Object-Oriented Programming
 
 ## ⚙️ Installation
-git clone https://github.com/yourusername/statistical-language-modeling.git
 
 cd statistical-language-modeling
 
